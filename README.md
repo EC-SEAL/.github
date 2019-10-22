@@ -1,0 +1,2 @@
+# .github
+Default community files
